@@ -1,2 +1,1 @@
-# musicplayer
-A simple mucis player
+# JS Algorithums
